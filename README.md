@@ -1,44 +1,72 @@
-# 👋 Hi, I'm Hasini Reddy
+# <h1 align="center">👋 Hi, I'm Hasini Reddy</h1>
 
-## 💻 About Me
+<p align="center">
+🎓 B.Tech CSE Student at MGIT <br>
+💻 Java Enthusiast | 📚 DSA Learner | 🚀 Future Software Engineer
+</p>
 
-- 🎓 B.Tech CSE Student at MGIT
-- 🌱 Currently learning Java, DSA, Git & GitHub
-- 💡 Interested in Web Development and DevOps
-- 🚀 Working on improving problem-solving skills
+---
+
+## 🌸 About Me
+
+✨ Passionate about learning new technologies.
+
+🌱 Currently learning:
+- ☕ Java
+- 📖 Data Structures & Algorithms
+- 🌿 Git & GitHub
+- 🌐 HTML & CSS
+
+🎯 My goal is to become a skilled Software Developer by building projects and improving problem-solving skills.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=logo-java)
-![DSA](https://img.shields.io/badge/Data-Structures-green?style=for-the-badge&logo=logo-java)
-![Git](https://img.shields.io/badge/Git-Learning-red?style=for-the-badge&logo=git)
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Learning-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
-![HTML](https://img.shields.io/badge/HTML-Beginner-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Beginner-blue?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-Beginner-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Beginner-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-
----
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniReddy-04&layout=compact&theme=radical)
+</p>
 
 ---
 
 ## 🎯 Goals
 
-- ✅ Solve 300+ DSA problems
-- ✅ Build Full Stack Projects
+- ✅ Master Java Programming
+- ✅ Solve 300+ DSA Problems
+- ✅ Build Real-World Projects
 - ✅ Learn DevOps
 - ✅ Crack Product-Based Company Interviews
 
 ---
 
+## 📚 Currently Working On
+
+- ☕ Java Programming
+- 🧩 Data Structures & Algorithms
+- 🌿 Git & GitHub
+- 🌐 Frontend Development
+
+---
+
 ## 📫 Connect With Me
 
-- 📧 Email: your-hasini@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/Hasini-Reddy
+📧 **Email:** your-hasini@gmail.com
 
-⭐ Thanks for visiting my profile!
+🔗 **LinkedIn:** https://linkedin.com/in/your-linkedin-username
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
+
+<p align="center">
+🌸 Happy Coding! 🌸
+</p>
