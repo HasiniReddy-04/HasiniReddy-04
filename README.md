@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasini Reddy
 
-<!--
-**HasiniReddy-04/HasiniReddy-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student at MGIT
+- 🌱 Currently learning Java, DSA, Git & GitHub
+- 💡 Interested in Web Development and DevOps
+- 🚀 Working on improving problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=logo-java)
+![DSA](https://img.shields.io/badge/Data-Structures-green?style=for-the-badge&logo=logo-java)
+![Git](https://img.shields.io/badge/Git-Learning-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
+![HTML](https://img.shields.io/badge/HTML-Beginner-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Beginner-blue?style=for-the-badge&logo=css3)
+
+
+---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniReddy-04&layout=compact)
+
+---
+
+## 🎯 Goals
+
+- ✅ Solve 300+ DSA problems
+- ✅ Build Full Stack Projects
+- ✅ Learn DevOps
+- ✅ Crack Product-Based Company Interviews
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-hasini@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/Hasini-Reddy
+
+⭐ Thanks for visiting my profile!
