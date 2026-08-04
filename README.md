@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniReddy-04&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniReddy-04&layout=compact&theme=radical)
 
 ---
 
