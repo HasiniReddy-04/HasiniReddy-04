@@ -25,7 +25,7 @@
 
 <p align="center">
 
-![JAVA](https://img.shields.io/badge/java-adavanced-green?style=for-the-badge&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-adavanced-green?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Learning-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
